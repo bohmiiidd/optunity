@@ -1,0 +1,7 @@
+plyer
+threading
+colorama
+tempfile
+json
+requests
+time
