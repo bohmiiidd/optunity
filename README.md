@@ -26,6 +26,7 @@ Why Use Optunity?
 ![Uploading Screenshot at 2024-12-26 16-22-10.png…]()
 
 
+
 Get Started
 
     Create a JSON file containing the URLs you want to monitor.
