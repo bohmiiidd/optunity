@@ -8,7 +8,9 @@ Optunity is a powerful tool designed to monitor specific websites for opportunit
     Graphical Notifications: Sends desktop notifications to ensure you never miss an update.
     Lightweight & Simple: Easy to set up and customize with just a JSON file of URLs.
 
+![Screenshot 2024-12-26 at 16-14-48 ](https://github.com/user-attachments/assets/72eeff9a-1eb9-421f-923a-5199757e7c50)
 How Optunity Works
+
 
     Monitor Websites: Optunity sends GET requests to the websites listed in your JSON file.
     Track Changes: Compares the current response size to the previously recorded size.
@@ -29,3 +31,6 @@ Get Started
     Optunity will handle the rest: monitoring, saving updates, and notifying you in real time.
 
 With Optunity, never miss out on the opportunities you're looking for! 🎯
+![Uploading Screenshot at 2024-12-26 16-22-10.png…]()
+
+
