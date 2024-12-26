@@ -24,8 +24,6 @@ Why Use Optunity?
     Gather information on free resources or new content updates.
     Effortlessly monitor websites without manual checks.
 
-![Uploading aler-check.png…]()
-
 
 Get Started
 
