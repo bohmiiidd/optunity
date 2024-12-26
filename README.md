@@ -23,6 +23,8 @@ Why Use Optunity?
     Stay ahead of the competition by tracking websites that publish time-sensitive opportunities.
     Gather information on free resources or new content updates.
     Effortlessly monitor websites without manual checks.
+![Uploading Screenshot at 2024-12-26 16-22-10.png…]()
+
 
 Get Started
 
@@ -31,6 +33,5 @@ Get Started
     Optunity will handle the rest: monitoring, saving updates, and notifying you in real time.
 
 With Optunity, never miss out on the opportunities you're looking for! 🎯
-![Uploading Screenshot at 2024-12-26 16-22-10.png…]()
 
 
